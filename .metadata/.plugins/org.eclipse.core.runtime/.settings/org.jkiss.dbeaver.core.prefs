@@ -1,9 +1,9 @@
 driver.selector.orderBy=score
 eclipse.preferences.version=1
-project.active=day03
+project.active=classroom
 resultset.presentation.active=spreadsheet
 sample.database.canceled=true
 swt.client.browser=EDGE
 tipOfTheDayInitializer.notFirstRun=true
-ui.auto.update.check.time=1687842639773
+ui.auto.update.check.time=1687918497321
 ui.show.tip.of.the.day.on.startup=true

@@ -62,11 +62,18 @@
 		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 	<section name="DBeaver.StandardErrorDialog">
-		<item key="showDetails" value="false"/>
+		<item key="showDetails" value="true"/>
 		<item key="DIALOG_X_ORIGIN" value="775"/>
 		<item key="DIALOG_Y_ORIGIN" value="402"/>
-		<item key="DIALOG_WIDTH" value="386"/>
-		<item key="DIALOG_HEIGHT" value="190"/>
+		<item key="DIALOG_WIDTH" value="465"/>
+		<item key="DIALOG_HEIGHT" value="368"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	</section>
+	<section name="DBeaver.EditConnectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="618"/>
+		<item key="DIALOG_Y_ORIGIN" value="170"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="537"/>
 		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 </section>
