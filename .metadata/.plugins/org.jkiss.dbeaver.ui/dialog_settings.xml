@@ -5,16 +5,16 @@
 	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
 		<item key="DIALOG_X_ORIGIN" value="27"/>
 		<item key="DIALOG_Y_ORIGIN" value="54"/>
-		<item key="DIALOG_WIDTH" value="940"/>
-		<item key="DIALOG_HEIGHT" value="570"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<item key="DIALOG_WIDTH" value="847"/>
+		<item key="DIALOG_HEIGHT" value="555"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 	<section name="DBeaver.ActiveWizardDialog.ProjectCreateWizard">
 		<item key="DIALOG_X_ORIGIN" value="225"/>
 		<item key="DIALOG_Y_ORIGIN" value="119"/>
-		<item key="DIALOG_WIDTH" value="525"/>
-		<item key="DIALOG_HEIGHT" value="607"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_HEIGHT" value="601"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 	<section name="DriverDownload">
 	</section>
@@ -59,6 +59,14 @@
 		<item key="DIALOG_Y_ORIGIN" value="359"/>
 		<item key="DIALOG_WIDTH" value="375"/>
 		<item key="DIALOG_HEIGHT" value="246"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	</section>
+	<section name="DBeaver.StandardErrorDialog">
+		<item key="showDetails" value="false"/>
+		<item key="DIALOG_X_ORIGIN" value="775"/>
+		<item key="DIALOG_Y_ORIGIN" value="402"/>
+		<item key="DIALOG_WIDTH" value="386"/>
+		<item key="DIALOG_HEIGHT" value="190"/>
 		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 </section>
