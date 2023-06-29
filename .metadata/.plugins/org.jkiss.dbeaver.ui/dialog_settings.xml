@@ -90,4 +90,11 @@
 		<item key="DIALOG_HEIGHT" value="311"/>
 		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
+	<section name="DBeaver.EditObjectDialog.EditConstraintPage">
+		<item key="DIALOG_X_ORIGIN" value="792"/>
+		<item key="DIALOG_Y_ORIGIN" value="258"/>
+		<item key="DIALOG_WIDTH" value="352"/>
+		<item key="DIALOG_HEIGHT" value="406"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	</section>
 </section>

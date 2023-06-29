@@ -1,1 +1,1 @@
-{"resources":{"Scripts/day03.sql":{"default-schema":"HR","default-datasource":"oracle_thin-188fff48295-1e59d20336071d5a"},"Scripts/day03_1.sql":{"default-datasource":"oracle_thin-188fff48295-1e59d20336071d5a","default-schema":"HR"}}}
+{"resources":{"Scripts/Script.sql":{"default-datasource":"oracle_thin-188fff48295-1e59d20336071d5a","default-schema":"HR"},"Scripts/day03.sql":{"default-schema":"HR","default-datasource":"oracle_thin-188fff48295-1e59d20336071d5a"},"Scripts/day03_1.sql":{"default-schema":"HR","default-datasource":"oracle_thin-188fff48295-1e59d20336071d5a"}}}
