@@ -3,18 +3,18 @@
 	<section name="DBeaver.DriverTabbedViewer">
 	</section>
 	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
-		<item key="DIALOG_X_ORIGIN" value="2182"/>
+		<item key="DIALOG_X_ORIGIN" value="1003"/>
 		<item key="DIALOG_Y_ORIGIN" value="57"/>
-		<item key="DIALOG_WIDTH" value="1367"/>
-		<item key="DIALOG_HEIGHT" value="734"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_WIDTH" value="925"/>
+		<item key="DIALOG_HEIGHT" value="570"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="DBeaver.ActiveWizardDialog.ProjectCreateWizard">
 		<item key="DIALOG_X_ORIGIN" value="706"/>
 		<item key="DIALOG_Y_ORIGIN" value="124"/>
-		<item key="DIALOG_WIDTH" value="1050"/>
-		<item key="DIALOG_HEIGHT" value="690"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="607"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="DriverDownload">
 	</section>
@@ -51,9 +51,9 @@
 	<section name="DBeaver.ShowTipOfTheDayDialog">
 		<item key="DIALOG_X_ORIGIN" value="653"/>
 		<item key="DIALOG_Y_ORIGIN" value="328"/>
-		<item key="DIALOG_WIDTH" value="631"/>
-		<item key="DIALOG_HEIGHT" value="300"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_WIDTH" value="352"/>
+		<item key="DIALOG_HEIGHT" value="251"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="DBeaver.StandardErrorDialog">
 		<item key="showDetails" value="false"/>
@@ -76,5 +76,12 @@
 		<item key="DIALOG_WIDTH" value="999"/>
 		<item key="DIALOG_HEIGHT" value="335"/>
 		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	</section>
+	<section name="DBeaver.ScriptSelectorPopup">
+		<item key="DIALOG_X_ORIGIN" value="691"/>
+		<item key="DIALOG_Y_ORIGIN" value="286"/>
+		<item key="DIALOG_WIDTH" value="555"/>
+		<item key="DIALOG_HEIGHT" value="364"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

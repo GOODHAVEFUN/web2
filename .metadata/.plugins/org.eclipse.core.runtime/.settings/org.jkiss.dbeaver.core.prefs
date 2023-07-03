@@ -46,7 +46,7 @@ org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.
 org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.jkiss.dbeaver.ui.editors.sql.run.statement].visibility=true
 org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.jkiss.dbeaver.ui.editors.sql.show.terminalView].isSet=true
 org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.jkiss.dbeaver.ui.editors.sql.show.terminalView].visibility=true
-project.active=day06
+project.active=day07
 sample.database.canceled=true
 swt.client.browser=EDGE
 tipOfTheDayInitializer.notFirstRun=true

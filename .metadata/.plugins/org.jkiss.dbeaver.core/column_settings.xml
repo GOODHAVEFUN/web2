@@ -6,8 +6,14 @@
 	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDiagramFolder/DBNResource">
 		<column name="이름" visible="true" order="0" width="158"/>
 		<column name="경로" visible="true" order="1" width="206"/>
-		<column name="크기" visible="true" order="2" width="100"/>
 		<column name="최종 수정" visible="true" order="3" width="100"/>
+		<column name="크기" visible="true" order="2" width="100"/>
+	</item>
+	<item id="NodeList/DBNResource">
+		<column name="이름" visible="true" order="0" width="100"/>
+		<column name="경로" visible="true" order="1" width="143"/>
+		<column name="최종 수정" visible="true" order="2" width="138"/>
+		<column name="크기" visible="true" order="3" width="100"/>
 	</item>
 	<item id="NodeList/DataSourceDescriptor">
 		<column name="이름" visible="true" order="0" width="134"/>
@@ -72,12 +78,18 @@
 		<column name="Group" visible="true" order="3" width="232"/>
 	</item>
 	<item id="Suggestion/NodeList/OracleTableColumn">
-		<column name="컬럼명" visible="true" order="0" width="182"/>
-		<column name="#" visible="true" order="1" width="38"/>
-		<column name="Type" visible="true" order="2" width="158"/>
+		<column name="컬럼명" visible="true" order="0" width="130"/>
+		<column name="#" visible="true" order="1" width="25"/>
+		<column name="Type" visible="true" order="2" width="60"/>
 		<column name="Type Mod" visible="false" order="3" width="110"/>
-		<column name="Not Null" visible="true" order="3" width="110"/>
-		<column name="디폴트" visible="true" order="4" width="62"/>
-		<column name="Comment" visible="true" order="5" width="98"/>
+		<column name="Not Null" visible="true" order="3" width="57"/>
+		<column name="디폴트" visible="true" order="4" width="48"/>
+		<column name="Comment" visible="true" order="5" width="66"/>
+	</item>
+	<item id="scriptSelectorViewer">
+		<column name="Script" visible="true" order="0" width="141"/>
+		<column name="Time" visible="true" order="1" width="184"/>
+		<column name="Info" visible="true" order="2" width="87"/>
+		<column name="Folder" visible="true" order="3" width="99"/>
 	</item>
 </items>
