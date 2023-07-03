@@ -1,0 +1,14 @@
+-- 한줄 주석 : 컴퓨터가 해석하지 않는다
+-- 실행시키지 않고 설명을 작성할 때 사용한다
+
+-- SELECT를 사용하여 employees 테이블의 first_name 컬럼만 선택해서 조회하기
+-- SELECT first_name FROM employees;
+-- SELECT first_name FROM hr.employees;
+-- DBeaver가 알아서 예약어는 대문자로 바꿔준다
+
+-- 테이블명을 작성할 때 정확하게 작성하려면 계정명을 작성하고
+-- (.)을 써줘야한다 .은 ~안에 있는 이라는 의미이다
+-- ; 하나의 명령이 끝나면 작성한다
+-- 세미콜론 이전에 줄바꿈을 해도 상관 없다
+
+SELECT FIRST_NAME FROM HR.EMPLOYEES;

@@ -1,7 +1,7 @@
 {
 	"folders": {},
 	"connections": {
-		"oracle_thin-1890ac8d8b7-66ce88f67165cb6a": {
+		"oracle_thin-1890ac8c1d1-5003740691e99889": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
 			"name": "localhost",

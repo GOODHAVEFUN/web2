@@ -3,18 +3,18 @@
 	<section name="DBeaver.DriverTabbedViewer">
 	</section>
 	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
-		<item key="DIALOG_X_ORIGIN" value="27"/>
-		<item key="DIALOG_Y_ORIGIN" value="54"/>
-		<item key="DIALOG_WIDTH" value="847"/>
-		<item key="DIALOG_HEIGHT" value="555"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_X_ORIGIN" value="2182"/>
+		<item key="DIALOG_Y_ORIGIN" value="57"/>
+		<item key="DIALOG_WIDTH" value="1367"/>
+		<item key="DIALOG_HEIGHT" value="734"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 	<section name="DBeaver.ActiveWizardDialog.ProjectCreateWizard">
-		<item key="DIALOG_X_ORIGIN" value="225"/>
-		<item key="DIALOG_Y_ORIGIN" value="119"/>
-		<item key="DIALOG_WIDTH" value="613"/>
-		<item key="DIALOG_HEIGHT" value="601"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="124"/>
+		<item key="DIALOG_WIDTH" value="1050"/>
+		<item key="DIALOG_HEIGHT" value="690"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 	<section name="DriverDownload">
 	</section>
@@ -25,6 +25,13 @@
 		<item key="DIALOG_HEIGHT" value="659"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
+	<section name="DBeaver.EditConnectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="-83"/>
+		<item key="DIALOG_Y_ORIGIN" value="161"/>
+		<item key="DIALOG_WIDTH" value="1050"/>
+		<item key="DIALOG_HEIGHT" value="714"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	</section>
 	<section name="DBeaver.QM.LogViewer">
 	</section>
 	<section name="ResultSetViewer">
@@ -32,69 +39,42 @@
 			<section name="spreadsheet">
 				<item key="enabledPanelIds" value="value-view"/>
 				<item key="activePanelId" value="value-view"/>
-				<item key="panelRatio" value="300"/>
+				<item key="panelRatio" value="50"/>
 				<item key="panelsVisible" value="false"/>
-				<item key="verticalLayout" value="false"/>
-			</section>
-			<section name="plaintext">
-				<item key="enabledPanelIds" value="value-view"/>
-				<item key="activePanelId" value="value-view"/>
-				<item key="panelRatio" value="300"/>
-				<item key="panelsVisible" value="true"/>
 				<item key="verticalLayout" value="false"/>
 			</section>
 		</section>
 		<section name="ErrorPresentation">
+			<item key="errorWidth" value="595:394"/>
 		</section>
 	</section>
-	<section name="DBeaver.SelectDataSourceDialog">
-		<item key="DIALOG_X_ORIGIN" value="337"/>
-		<item key="DIALOG_Y_ORIGIN" value="65"/>
-		<item key="DIALOG_WIDTH" value="359"/>
-		<item key="DIALOG_HEIGHT" value="678"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
-	</section>
 	<section name="DBeaver.ShowTipOfTheDayDialog">
-		<item key="DIALOG_X_ORIGIN" value="303"/>
-		<item key="DIALOG_Y_ORIGIN" value="359"/>
-		<item key="DIALOG_WIDTH" value="375"/>
-		<item key="DIALOG_HEIGHT" value="246"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_X_ORIGIN" value="653"/>
+		<item key="DIALOG_Y_ORIGIN" value="328"/>
+		<item key="DIALOG_WIDTH" value="631"/>
+		<item key="DIALOG_HEIGHT" value="300"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 	<section name="DBeaver.StandardErrorDialog">
-		<item key="showDetails" value="true"/>
-		<item key="DIALOG_X_ORIGIN" value="775"/>
-		<item key="DIALOG_Y_ORIGIN" value="402"/>
-		<item key="DIALOG_WIDTH" value="465"/>
-		<item key="DIALOG_HEIGHT" value="368"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="showDetails" value="false"/>
+		<item key="DIALOG_X_ORIGIN" value="531"/>
+		<item key="DIALOG_Y_ORIGIN" value="380"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="214"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
-	<section name="DBeaver.EditConnectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="618"/>
-		<item key="DIALOG_Y_ORIGIN" value="170"/>
-		<item key="DIALOG_WIDTH" value="700"/>
-		<item key="DIALOG_HEIGHT" value="537"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	<section name="DBeaver.SelectDataSourceDialog">
+		<item key="DIALOG_X_ORIGIN" value="690"/>
+		<item key="DIALOG_Y_ORIGIN" value="18"/>
+		<item key="DIALOG_WIDTH" value="557"/>
+		<item key="DIALOG_HEIGHT" value="765"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
-	<section name="DBeaver.ViewSQLDialog">
-		<item key="DIALOG_X_ORIGIN" value="698"/>
-		<item key="DIALOG_Y_ORIGIN" value="188"/>
-		<item key="DIALOG_WIDTH" value="540"/>
-		<item key="DIALOG_HEIGHT" value="511"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
-	</section>
-	<section name="DBeaver.EditObjectDialog.PropertyObjectEditPage">
-		<item key="DIALOG_X_ORIGIN" value="700"/>
-		<item key="DIALOG_Y_ORIGIN" value="321"/>
-		<item key="DIALOG_WIDTH" value="536"/>
-		<item key="DIALOG_HEIGHT" value="311"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
-	</section>
-	<section name="DBeaver.EditObjectDialog.EditConstraintPage">
-		<item key="DIALOG_X_ORIGIN" value="792"/>
-		<item key="DIALOG_Y_ORIGIN" value="258"/>
-		<item key="DIALOG_WIDTH" value="352"/>
-		<item key="DIALOG_HEIGHT" value="406"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+	<section name="DBeaver.TransactionLogDialog">
+		<item key="DIALOG_X_ORIGIN" value="-199"/>
+		<item key="DIALOG_Y_ORIGIN" value="182"/>
+		<item key="DIALOG_WIDTH" value="999"/>
+		<item key="DIALOG_HEIGHT" value="335"/>
+		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
 	</section>
 </section>

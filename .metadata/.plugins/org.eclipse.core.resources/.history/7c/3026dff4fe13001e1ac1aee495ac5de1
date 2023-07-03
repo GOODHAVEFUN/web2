@@ -1,0 +1,5 @@
+-- 테이블의 컬럼 이름을 바꿔서 조회하기
+-- 테이블의 컬럼명을 별칭(별명)으로 설정하기
+-- AS alias 
+SELECT first_name AS "이름", last_name AS "성", salary AS "봉급", employee_id AS "사원번호"
+FROM employees;

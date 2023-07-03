@@ -1,0 +1,716 @@
+2023-06-30 14:30:21.820 - DBeaver 23.1.1.202306251800 is starting
+2023-06-30 14:30:21.820 - OS: Windows 10 10.0 (amd64)
+2023-06-30 14:30:21.821 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2023-06-30 14:30:21.821 - Install path: 'D:\web_1400_kys\dbms\oracle\resource\dbeaver-ce-23.1.1-win32.win32.x86_64\dbeaver'
+2023-06-30 14:30:21.821 - Instance path: 'file:/D:/web_1400_kys/dbms/oracle/workspace/'
+2023-06-30 14:30:21.821 - Memory available 64Mb/1024Mb
+2023-06-30 14:30:21.841 - Create display
+2023-06-30 14:30:21.980 - Initializing DBeaver 23.1.1
+2023-06-30 14:30:21.980 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.1.1.202306251800
+2023-06-30 14:30:21.981 - Initialize desktop platform...
+2023-06-30 14:30:22.137 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.0.v20230425-0513]
+> Start Core Resource Management [org.eclipse.core.resources 3.19.0.v20230510-1240]
+> Start Team Support Core [org.eclipse.team.core 3.10.0.v20230317-0901]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.108.202306251800]
+2023-06-30 14:30:22.461 - Initialize base platform...
+2023-06-30 14:30:22.491 - Platform initialized (510ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.108.202306251800]
+2023-06-30 14:30:22.505 - Starting RMI server at 55751
+2023-06-30 14:30:22.569 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.123.202306251800]
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.0.v20230501-1823]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.0.v20230429-1914]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.0.v20230501-1823]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.0.v20230501-1823]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.0.v20230501-1823]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.0.v20230501-1823]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.18.0.v20230211-1150]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.0.v20230501-1533]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.0.v20230501-1823]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.0.v20230525-0648]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.0.v20230429-1914]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.0.v20230317-0802]
+2023-06-30 14:30:27.773 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.98.202306251800]
+2023-06-30 14:30:27.919 - Total database drivers: 104 (104)
+> Start Help System Core [org.eclipse.help 3.10.0.v20230317-0802]
+2023-06-30 14:30:27.986 - Create actions
+2023-06-30 14:30:27.989 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-06-30 14:30:27.990 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-06-30 14:30:27.990 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2023-06-30 14:30:28.528 - Initialize workbench window
+2023-06-30 14:30:28.533 - Finish initialization
+> Start Default Text Editor [org.eclipse.ui.editors 3.16.0.v20230329-1609]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.0.v20230316-1200]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.108.202306251800]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.108.202306251800]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.84.202306251800]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.0.v20230517-1315]
+> Start Console [org.eclipse.ui.console 3.12.0.v20230317-0802]
+> Start Debug Core [org.eclipse.debug.core 3.21.0.v20230508-1538]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.1000.v20220801-1135]
+> Start jna [com.sun.jna 5.13.0]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.0.v20230317-0901]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.0.v20230317-0901]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.145.202306251800]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.114.202306251800]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.13.0.202306071707]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.14.0.202306071707]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.68.202306251800]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.68.202306251800]
+2023-06-30 14:30:31.601 - Connect with 'localhost' (oracle_thin-1890599d9ab-71bce658bc225e7c)
+> Start Bundle-Name [org.jkiss.dbeaver.model.jdbc 1.0.1.202306251800]
+> Start DBeaver Oracle Support [org.jkiss.dbeaver.ext.oracle 2.1.193.202306251800]
+2023-06-30 14:30:31.660 - Execution context opened (localhost; Main; 0)
+2023-06-30 14:30:32.250 - Execution context opened (localhost; Metadata; 1)
+2023-06-30 14:30:32.345 - Connected (oracle_thin-1890599d9ab-71bce658bc225e7c, Oracle JDBC driver [11.2.0.2.0])
+2023-06-30 14:30:32.348 - Execution context opened (localhost; SQLEditor <Script-1.sql>; 2)
+2023-06-30 14:30:34.059 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.86.202306251800]
+> Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.95.202306251800]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.86.202306251800]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.99.202306251800]
+2023-06-30 14:30:43.601 - Unrecognized Oracle client version at D:/web_1400_kys/dbms/oracle/resource/dbeaver-ce-23.1.1-win32.win32.x86_64/dbeaver/jre
+2023-06-30 14:30:43.628 - Unrecognized Oracle client version at D:\DBMS\WINDOWS.X64_193000_db_home
+2023-06-30 14:30:43.714 - Auth model 'native' was replaced by 'oracle_native'
+2023-06-30 14:30:43.733 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2023-06-30 14:30:52.570 - Connect with 'jdbc:oracle:thin:@//localhost:1521/xe' (oracle_thin-1890ac86501-50c92131a144aa80)
+2023-06-30 14:30:52.571 - Execution context opened (jdbc:oracle:thin:@//localhost:1521/xe; Main; 3)
+2023-06-30 14:30:52.593 - Connected (oracle_thin-1890ac86501-50c92131a144aa80, Oracle JDBC driver [11.2.0.2.0])
+2023-06-30 14:30:52.646 - Execution context closed (jdbc:oracle:thin:@//localhost:1521/xe, 3)
+2023-06-30 14:30:52.646 - Disconnected (oracle_thin-1890ac86501-50c92131a144aa80)
+2023-06-30 14:31:08.861 - Execution context opened (localhost; SQLEditor <Script.sql>; 4)
+2023-06-30 14:31:16.352 - Auth model 'native' was replaced by 'oracle_native'
+2023-06-30 14:31:16.360 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2023-06-30 14:31:23.841 - Connect with 'jdbc:oracle:thin:@//localhost:1521/xe' (oracle_thin-1890ac8df2f-6e76befbde701841)
+2023-06-30 14:31:23.842 - Execution context opened (jdbc:oracle:thin:@//localhost:1521/xe; Main; 5)
+2023-06-30 14:31:23.867 - Connected (oracle_thin-1890ac8df2f-6e76befbde701841, Oracle JDBC driver [11.2.0.2.0])
+2023-06-30 14:31:23.917 - Execution context closed (jdbc:oracle:thin:@//localhost:1521/xe, 5)
+2023-06-30 14:31:23.917 - Disconnected (oracle_thin-1890ac8df2f-6e76befbde701841)
+2023-06-30 14:31:43.034 - Execution context closed (localhost, 2)
+2023-06-30 14:31:44.511 - Can't get column 'PLUGGED_IN': 부적합한 열 이름
+2023-06-30 14:31:44.765 - ORA-01013: user requested cancel of current operation
+
+java.sql.SQLTimeoutException: ORA-01013: user requested cancel of current operation
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:207)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForDescribe(T4CPreparedStatement.java:859)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3576)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3677)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.execute(OraclePreparedStatementWrapper.java:1374)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.execute(JDBCPreparedStatementImpl.java:261)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.executeStatement(JDBCPreparedStatementImpl.java:205)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCStructCache.loadChildren(JDBCStructCache.java:98)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCStructCache.getChild(JDBCStructCache.java:231)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleTableBase.getAttribute(OracleTableBase.java:261)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleTable.getAttribute(OracleTable.java:310)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleSchema.getTableColumn(OracleSchema.java:467)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleSchema$ConstraintCache.fetchObjectRow(OracleSchema.java:906)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleSchema$ConstraintCache.fetchObjectRow(OracleSchema.java:1)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCCompositeCache.loadObjects(JDBCCompositeCache.java:360)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCCompositeCache.getObjects(JDBCCompositeCache.java:120)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleTableBase.getConstraints(OracleTableBase.java:293)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.extractPropertyValue(DBNDatabaseNode.java:964)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode$PropertyValueReader.run(DBNDatabaseNode.java:1036)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode$PropertyValueReader.run(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadTreeItems(DBNDatabaseNode.java:595)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.loadChildren(DBNDatabaseNode.java:464)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:227)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:80)
+	at org.jkiss.dbeaver.ui.navigator.itemlist.ItemListControl$ItemLoadService.evaluate(ItemListControl.java:308)
+	at org.jkiss.dbeaver.ui.navigator.itemlist.ItemListControl$ItemLoadService.evaluate(ItemListControl.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
+2023-06-30 14:31:47.802 - Can't get column 'DATA_DEFAULT': 스트림이 이미 종료되었습니다
+2023-06-30 14:31:47.858 - Can't get column 'COLUMN_NAMES_NUMS': 부적합한 열 이름
+2023-06-30 14:31:47.861 - Object 'BIN$0ENJq22mQJ2c1C8ZDe1dPg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 14:31:47.861 - Object 'BIN$8wgXihvFQkSfHzViemH1Lg==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:47.862 - Object 'BIN$DEF4VEQjReqdvBhYfahl4A==$0' owner 'BIN$3xPgafHvTpCLrJ/QORMZ2A==$0' not found
+2023-06-30 14:31:47.862 - Object 'BIN$LHwGzF0oRJ6RdEjwrtIifg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 14:31:47.862 - Object 'BIN$YtDscTd1Q7unKwj0iW4ArA==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:47.862 - Object 'BIN$gXwHpyitQc2jcfeRPdOjJw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:47.862 - Object 'BIN$zlNI3V+rQ9W2mBMfyUFKhw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:48.040 - Error reading entity references
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [1013] [72000]: ORA-01013: user requested cancel of current operation
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.executeStatement(JDBCPreparedStatementImpl.java:208)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCCompositeCache.loadObjects(JDBCCompositeCache.java:301)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleSchema$ForeignKeyCache.loadObjects(OracleSchema.java:1010)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleSchema$ForeignKeyCache.loadObjects(OracleSchema.java:1)
+	at org.jkiss.dbeaver.model.impl.jdbc.cache.JDBCCompositeCache.getObjects(JDBCCompositeCache.java:120)
+	at org.jkiss.dbeaver.ext.oracle.model.OracleTable.getReferences(OracleTable.java:332)
+	at org.jkiss.dbeaver.model.virtual.DBVUtils.getAllReferences(DBVUtils.java:353)
+	at org.jkiss.dbeaver.erd.model.ERDUtils.collectDatabaseTables(ERDUtils.java:221)
+	at org.jkiss.dbeaver.erd.ui.editor.ERDEditorEmbedded.loadFromDatabase(ERDEditorEmbedded.java:227)
+	at org.jkiss.dbeaver.erd.ui.editor.ERDEditorEmbedded$1.evaluate(ERDEditorEmbedded.java:172)
+	at org.jkiss.dbeaver.erd.ui.editor.ERDEditorEmbedded$1.evaluate(ERDEditorEmbedded.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLTimeoutException: ORA-01013: user requested cancel of current operation
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:207)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForDescribe(T4CPreparedStatement.java:859)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3576)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3677)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.execute(OraclePreparedStatementWrapper.java:1374)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.execute(JDBCPreparedStatementImpl.java:261)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCPreparedStatementImpl.executeStatement(JDBCPreparedStatementImpl.java:205)
+	... 14 more
+2023-06-30 14:31:51.500 - Execution context closed (localhost, 4)
+2023-06-30 14:31:52.042 - Connect with 'localhost' (oracle_thin-1890065abb8-5e0d5b86001b0a3)
+2023-06-30 14:31:52.042 - Execution context opened (localhost; Main; 6)
+2023-06-30 14:31:52.064 - Execution context opened (localhost; Metadata; 7)
+2023-06-30 14:31:52.084 - Connected (oracle_thin-1890065abb8-5e0d5b86001b0a3, Oracle JDBC driver [11.2.0.2.0])
+2023-06-30 14:31:53.162 - org.eclipse.swt.SWTException: Widget is disposed
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:369)
+	at org.eclipse.swt.widgets.Control.removePaintListener(Control.java:2853)
+	at org.jkiss.dbeaver.ui.editors.ProgressEditorPart$InitNodeVisualizer.completeLoading(ProgressEditorPart.java:196)
+	at org.jkiss.dbeaver.ui.editors.ProgressEditorPart$InitNodeVisualizer.completeLoading(ProgressEditorPart.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob$LoadFinisher.run(LoadingJob.java:129)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.jkiss.dbeaver.core.DesktopUI.readAndDispatchEvents(DesktopUI.java:680)
+	at org.jkiss.dbeaver.utils.RuntimeUtils.runTask(RuntimeUtils.java:269)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.getTransactionIsolation(JDBCExecutionContext.java:279)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.getActiveTransactionsIsolation(DataSourceDescriptor.java:542)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceAutoCommitHandler.updateElement(DataSourceAutoCommitHandler.java:114)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.updateElement(HandlerProxy.java:434)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.updateElement(E4HandlerProxy.java:123)
+	at org.eclipse.ui.internal.WorkbenchHandlerServiceHandler.updateElement(WorkbenchHandlerServiceHandler.java:45)
+	at org.eclipse.ui.internal.commands.CommandService$1.run(CommandService.java:261)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.commands.CommandService.refreshElements(CommandService.java:265)
+	at org.jkiss.dbeaver.ui.ActionUtils.lambda$0(ActionUtils.java:448)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:279)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-06-30 14:31:53.282 - Can't get column 'DATA_DEFAULT': 스트림이 이미 종료되었습니다
+2023-06-30 14:31:53.290 - Can't get column 'COLUMN_NAMES_NUMS': 부적합한 열 이름
+2023-06-30 14:31:53.290 - Object 'BIN$0ENJq22mQJ2c1C8ZDe1dPg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 14:31:53.291 - Object 'BIN$8wgXihvFQkSfHzViemH1Lg==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:53.291 - Object 'BIN$DEF4VEQjReqdvBhYfahl4A==$0' owner 'BIN$3xPgafHvTpCLrJ/QORMZ2A==$0' not found
+2023-06-30 14:31:53.291 - Object 'BIN$LHwGzF0oRJ6RdEjwrtIifg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 14:31:53.291 - Object 'BIN$YtDscTd1Q7unKwj0iW4ArA==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:53.291 - Object 'BIN$gXwHpyitQc2jcfeRPdOjJw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:53.291 - Object 'BIN$zlNI3V+rQ9W2mBMfyUFKhw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:31:56.386 - Connect with 'localhost' (oracle_thin-1890ac8c1d1-5003740691e99889)
+2023-06-30 14:31:56.386 - Execution context opened (localhost; Main; 8)
+2023-06-30 14:31:56.397 - Execution context opened (localhost; Metadata; 9)
+2023-06-30 14:31:56.415 - Connected (oracle_thin-1890ac8c1d1-5003740691e99889, Oracle JDBC driver [11.2.0.2.0])
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.3.202306251800]
+2023-06-30 14:33:10.065 - No active connection
+2023-06-30 14:33:13.527 - Execution context opened (localhost; SQLEditor <Script.sql>; 10)
+2023-06-30 14:36:38.837 - SQL Error [2290] [23000]: ORA-02290: check constraint (HR.CHECK_CATEGORY) violated
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [2290] [23000]: ORA-02290: check constraint (HR.CHECK_CATEGORY) violated
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:501)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: ORA-02290: check constraint (HR.CHECK_CATEGORY) violated
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:999)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1315)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 11 more
+2023-06-30 14:39:05.162 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.163 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.179 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.195 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.211 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.974 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.975 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:05.994 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:06.009 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:39:06.024 - Can't parse numeric value [SELECT * FROM tbl_book;
+SELECT * FROM TBL_MEMBER;
+
+-- 회원정보 추가
+INSERT INTO TBL_MEMBER VALUES(1, '홍길동', 22, '010-1111-1111', '서울시');
+INSERT INTO TBL_MEMBER VALUES(2, '신짱구', 22, '010-1234-1234', '서울시');
+INSERT INTO TBL_MEMBER VALUES(3, '김철수', 22, '010-3333-3333', '경기도');
+
+SELECT * FROM TBL_MEMBER;
+
+-- 책 정보 추가
+INSERT INTO TBL_BOOK VALUES(1, '셜록', '추리', NULL);
+INSERT INTO TBL_BOOK VALUES(2, 'DBMS 완전정복', 'IT', NULL);
+INSERT INTO TBL_BOOK VALUES(3, '하면된다', '인문학', NULL);
+
+SELECT * FROM TBL_BOOK;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:40:06.845 - Can't get column 'DATA_DEFAULT': 스트림이 이미 종료되었습니다
+2023-06-30 14:40:06.847 - Can't get column 'COLUMN_NAMES_NUMS': 부적합한 열 이름
+2023-06-30 14:40:06.847 - Object 'BIN$0ENJq22mQJ2c1C8ZDe1dPg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 14:40:06.847 - Object 'BIN$8wgXihvFQkSfHzViemH1Lg==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:40:06.847 - Object 'BIN$DEF4VEQjReqdvBhYfahl4A==$0' owner 'BIN$3xPgafHvTpCLrJ/QORMZ2A==$0' not found
+2023-06-30 14:40:06.848 - Object 'BIN$LHwGzF0oRJ6RdEjwrtIifg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 14:40:06.848 - Object 'BIN$YtDscTd1Q7unKwj0iW4ArA==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:40:06.848 - Object 'BIN$gXwHpyitQc2jcfeRPdOjJw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:40:06.848 - Object 'BIN$zlNI3V+rQ9W2mBMfyUFKhw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 14:41:15.218 - Can't get column 'PLUGGED_IN': 부적합한 열 이름
+2023-06-30 14:44:30.273 - Can't parse numeric value [UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 1;
+
+UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 2;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:44:30.274 - Can't parse numeric value [UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 1;
+
+UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 2;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:44:30.279 - Can't parse numeric value [UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 1;
+
+UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 2;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:44:30.280 - Can't parse numeric value [UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 1;
+
+UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 2;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:44:30.282 - Can't parse numeric value [UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 1;
+
+UPDATE TBL_BOOK
+SET MEMBER_NUMBER = 3
+WHERE BOOK_NUMBER = 2;] using formatter: Character array is missing "e" notation exponential mark.
+2023-06-30 14:48:32.253 - SQL Error [2292] [23000]: ORA-02292: integrity constraint (HR.FK_BOOK) violated - child record found
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [2292] [23000]: ORA-02292: integrity constraint (HR.FK_BOOK) violated - child record found
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:501)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: ORA-02292: integrity constraint (HR.FK_BOOK) violated - child record found
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:999)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1315)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 11 more
+2023-06-30 14:54:37.980 - Invalidate datasource 'localhost' (oracle_thin-1890ac8c1d1-5003740691e99889)
+2023-06-30 14:54:37.980 - 	Invalidate context 'Main' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 14:54:38.031 - Execution context closed (localhost, 8)
+2023-06-30 14:54:38.042 - 	Invalidate context 'Metadata' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 14:54:38.096 - Execution context closed (localhost, 9)
+2023-06-30 14:54:38.112 - 	Invalidate context 'SQLEditor <Script.sql>' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 14:54:38.163 - Execution context closed (localhost, 10)
+2023-06-30 14:54:38.179 - Connections reopened: 3 (of 3)
+2023-06-30 14:59:25.777 - Can't parse numeric value [SEQ_MEMBER.NEXTVAL] using formatter: Character S is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+2023-06-30 14:59:25.777 - Can't parse numeric value [SEQ_MEMBER.NEXTVAL] using formatter: Character S is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+2023-06-30 14:59:25.778 - Can't parse numeric value [SEQ_MEMBER.NEXTVAL] using formatter: Character S is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+2023-06-30 14:59:25.779 - Can't parse numeric value [SEQ_MEMBER.NEXTVAL] using formatter: Character S is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+2023-06-30 14:59:25.779 - Can't parse numeric value [SEQ_MEMBER.NEXTVAL] using formatter: Character S is neither a decimal digit number, decimal point, nor "e" notation exponential mark.
+2023-06-30 15:04:22.368 - Object 'BIN$0ENJq22mQJ2c1C8ZDe1dPg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 15:04:22.368 - Object 'BIN$8wgXihvFQkSfHzViemH1Lg==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 15:04:22.368 - Object 'BIN$DEF4VEQjReqdvBhYfahl4A==$0' owner 'BIN$3xPgafHvTpCLrJ/QORMZ2A==$0' not found
+2023-06-30 15:04:22.369 - Object 'BIN$LHwGzF0oRJ6RdEjwrtIifg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 15:04:22.369 - Object 'BIN$YtDscTd1Q7unKwj0iW4ArA==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 15:04:22.369 - Object 'BIN$gXwHpyitQc2jcfeRPdOjJw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 15:04:22.369 - Object 'BIN$zlNI3V+rQ9W2mBMfyUFKhw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 15:35:15.898 - Invalidate datasource 'localhost' (oracle_thin-1890ac8c1d1-5003740691e99889)
+2023-06-30 15:35:15.898 - 	Invalidate context 'Main' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 15:35:15.949 - Execution context closed (localhost, 8)
+2023-06-30 15:35:15.969 - 	Invalidate context 'Metadata' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 15:35:16.020 - Execution context closed (localhost, 9)
+2023-06-30 15:35:16.033 - 	Invalidate context 'SQLEditor <Script.sql>' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 15:35:16.084 - Execution context closed (localhost, 10)
+2023-06-30 15:35:16.104 - Connections reopened: 3 (of 3)
+2023-06-30 15:35:16.626 - Invalidate datasource 'localhost' (oracle_thin-1890ac8c1d1-5003740691e99889)
+2023-06-30 15:35:16.626 - 	Invalidate context 'Main' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 15:35:16.678 - Execution context closed (localhost, 8)
+2023-06-30 15:35:16.689 - 	Invalidate context 'Metadata' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 15:35:16.741 - Execution context closed (localhost, 9)
+2023-06-30 15:35:16.755 - 	Invalidate context 'SQLEditor <Script.sql>' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 15:35:16.805 - Execution context closed (localhost, 10)
+2023-06-30 15:35:16.830 - Connections reopened: 3 (of 3)
+2023-06-30 15:36:06.546 - Error resolving object
+org.jkiss.dbeaver.DBException: TABLE 'PLAYER' not found in schema 'HR'
+	at org.jkiss.dbeaver.ext.oracle.model.OracleStructureAssistant$2.resolveObject(OracleStructureAssistant.java:334)
+	at org.jkiss.dbeaver.ui.editors.sql.dialogs.SuggestionInformationControl$1.run(SuggestionInformationControl.java:130)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-06-30 16:01:01.263 - org.jkiss.dbeaver.DBException: TABLE 'PLAYER' not found in schema 'HR'
+	at org.jkiss.dbeaver.ext.oracle.model.OracleStructureAssistant$2.resolveObject(OracleStructureAssistant.java:334)
+	at org.jkiss.dbeaver.model.sql.SQLSearchUtils.findObjectByPath(SQLSearchUtils.java:176)
+	at org.jkiss.dbeaver.model.sql.SQLSearchUtils.findObjectByFQN(SQLSearchUtils.java:105)
+	at org.jkiss.dbeaver.model.sql.SQLSearchUtils.findObjectByFQN(SQLSearchUtils.java:65)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.getTableFromAlias(SQLCompletionAnalyzer.java:943)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.runAnalyzer(SQLCompletionAnalyzer.java:301)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.runAnalyzer(SQLCompletionAnalyzer.java:110)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.run(SQLCompletionAnalyzer.java:94)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.run(SQLCompletionAnalyzer.java:1)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.syntax.SQLCompletionProcessor$ProposalSearchJob.run(SQLCompletionProcessor.java:334)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-06-30 16:01:01.269 - org.jkiss.dbeaver.DBException: TABLE 'PLAYER' not found in schema 'HR'
+	at org.jkiss.dbeaver.ext.oracle.model.OracleStructureAssistant$2.resolveObject(OracleStructureAssistant.java:334)
+	at org.jkiss.dbeaver.model.sql.SQLSearchUtils.findObjectByPath(SQLSearchUtils.java:176)
+	at org.jkiss.dbeaver.model.sql.SQLSearchUtils.findObjectByFQN(SQLSearchUtils.java:122)
+	at org.jkiss.dbeaver.model.sql.SQLSearchUtils.findObjectByFQN(SQLSearchUtils.java:65)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.getTableFromAlias(SQLCompletionAnalyzer.java:943)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.runAnalyzer(SQLCompletionAnalyzer.java:301)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.runAnalyzer(SQLCompletionAnalyzer.java:110)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.run(SQLCompletionAnalyzer.java:94)
+	at org.jkiss.dbeaver.model.sql.completion.SQLCompletionAnalyzer.run(SQLCompletionAnalyzer.java:1)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.syntax.SQLCompletionProcessor$ProposalSearchJob.run(SQLCompletionProcessor.java:334)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-06-30 16:01:49.379 - Object 'BIN$0ENJq22mQJ2c1C8ZDe1dPg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$0rrNBdLRTMCwCYo0JNg7dw==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$3OzFgTjAS5mzk4gF8bDAEQ==$0' owner 'BIN$BLMQZd2GQ6m2YYryYEA+Ng==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$8wgXihvFQkSfHzViemH1Lg==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$DEF4VEQjReqdvBhYfahl4A==$0' owner 'BIN$3xPgafHvTpCLrJ/QORMZ2A==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$EYvCyllWSQGs+0eHeVZrsA==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$G59n2LDlSw2AOUL6I20CUg==$0' owner 'BIN$XewgV3IgT0iv7+ko1i9gzg==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$IsBdmMlKSS2itVR341Xuog==$0' owner 'BIN$4I17WO7WTriYsOa3jzleKA==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$LHwGzF0oRJ6RdEjwrtIifg==$0' owner 'BIN$ZavuiTQ6SyC+E34Fv0Dkvg==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$WGmOgCFcS8mTROYgKtC7Yw==$0' owner 'BIN$4I17WO7WTriYsOa3jzleKA==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$YtDscTd1Q7unKwj0iW4ArA==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$Z5oQ81QMSx2gRf/+MWfHcg==$0' owner 'BIN$BLMQZd2GQ6m2YYryYEA+Ng==$0' not found
+2023-06-30 16:01:49.379 - Object 'BIN$aa5goJ8KRJeuJ9kSRsAVdQ==$0' owner 'BIN$BLMQZd2GQ6m2YYryYEA+Ng==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$f81gUic+QY6wb7fB1TbvJA==$0' owner 'BIN$4I17WO7WTriYsOa3jzleKA==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$gXwHpyitQc2jcfeRPdOjJw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$kLAqKRmnSsCYdaO9c/0MpQ==$0' owner 'BIN$4I17WO7WTriYsOa3jzleKA==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$kghAUnu+TWuZYT+fi29nRA==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$krqHte4rRzOGEGuh5A7uXQ==$0' owner 'BIN$4I17WO7WTriYsOa3jzleKA==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$lw/TdKHETaGt6PBMwZzRqg==$0' owner 'BIN$XewgV3IgT0iv7+ko1i9gzg==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$lxiglCW6SkG9k6aBaSXGfg==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$mXm2LJVZTtOdQi9i0w6etw==$0' owner 'BIN$XewgV3IgT0iv7+ko1i9gzg==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$orzCRerRS7W6C/EM2aKfOQ==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$rRgu5S7LR7C+e6C2aJn/Nw==$0' owner 'BIN$BLMQZd2GQ6m2YYryYEA+Ng==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$tCyBI/yySaW/ihjrl0ZAng==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$tCyBI/yySaW/ihjrl0ZAng==$0' owner 'BIN$7TmSIQ7gSK6GLa/sjVfP9A==$0' not found
+2023-06-30 16:01:49.380 - Object 'BIN$zlNI3V+rQ9W2mBMfyUFKhw==$0' owner 'BIN$G4Df2wd5RZmTg7jb0qVsAw==$0' not found
+2023-06-30 16:24:51.536 - SQL Error [942] [42000]: ORA-00942: table or view does not exist
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: table or view does not exist
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2023-06-30 16:24:51.697 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-06-30 16:24:51.697 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-06-30 16:24:51.699 - Can't obtain procedure metadata nor jdbc metadata
+2023-06-30 16:24:58.196 - Invalidate datasource 'localhost' (oracle_thin-1890ac8c1d1-5003740691e99889)
+2023-06-30 16:24:58.196 - 	Invalidate context 'Main' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 16:24:58.248 - Execution context closed (localhost, 8)
+2023-06-30 16:24:58.274 - 	Invalidate context 'Metadata' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 16:24:58.325 - Execution context closed (localhost, 9)
+2023-06-30 16:24:58.345 - 	Invalidate context 'SQLEditor <Script.sql>' for oracle_thin-1890ac8c1d1-5003740691e99889
+2023-06-30 16:24:58.395 - Execution context closed (localhost, 10)
+2023-06-30 16:24:58.411 - Connections reopened: 3 (of 3)
+2023-06-30 16:24:59.771 - SQL Error [942] [42000]: ORA-00942: table or view does not exist
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: table or view does not exist
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2023-06-30 16:24:59.883 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-06-30 16:24:59.884 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-06-30 16:24:59.884 - Can't obtain procedure metadata nor jdbc metadata
+2023-06-30 18:12:26.236 - Execution context closed (localhost, 10)
+2023-06-30 18:12:26.331 - DBeaver is stopping
+2023-06-30 18:12:26.332 - Stop RMI server
+2023-06-30 18:12:26.334 - RMI controller has been stopped
+2023-06-30 18:12:26.335 - DBeaver shutdown completed

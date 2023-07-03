@@ -65,6 +65,14 @@
 				<item key="quoteNever" value="false"/>
 				<item key="escape" value="quotes"/>
 			</section>
+			<section name="stream_consumer:stream.json">
+			</section>
+			<section name="stream_consumer:stream.txt">
+			</section>
+			<section name="stream_consumer:stream.html">
+			</section>
+			<section name="stream_consumer:stream.sql">
+			</section>
 		</section>
 	</section>
 </section>
