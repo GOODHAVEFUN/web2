@@ -78,22 +78,12 @@
 		<column name="Group" visible="true" order="3" width="232"/>
 	</item>
 	<item id="Suggestion/NodeList/OracleTableColumn">
-<<<<<<< HEAD
-		<column name="컬럼명" visible="true" order="0" width="79"/>
-=======
-		<column name="컬럼명" visible="true" order="0" width="117"/>
->>>>>>> 69f28e63ff73b840c3d6f5d3973e0b522aec7b61
+		<column name="컬럼명" visible="true" order="0" width="99"/>
 		<column name="#" visible="true" order="1" width="27"/>
 		<column name="Type" visible="true" order="2" width="94"/>
-		<column name="Type Mod" visible="false" order="3" width="110"/>
+		<column name="Type Mod" visible="false" order="3" width="100"/>
 		<column name="Not Null" visible="true" order="3" width="59"/>
 		<column name="디폴트" visible="true" order="4" width="50"/>
-		<column name="Comment" visible="true" order="5" width="68"/>
-	</item>
-	<item id="scriptSelectorViewer">
-		<column name="Script" visible="true" order="0" width="141"/>
-		<column name="Time" visible="true" order="1" width="184"/>
-		<column name="Info" visible="true" order="2" width="87"/>
-		<column name="Folder" visible="true" order="3" width="99"/>
+		<column name="Comment" visible="true" order="5" width="234"/>
 	</item>
 </items>
