@@ -50,7 +50,11 @@ project.active=day08
 sample.database.canceled=true
 swt.client.browser=EDGE
 tipOfTheDayInitializer.notFirstRun=true
+<<<<<<< HEAD
 ui.auto.update.check.time=1688448099750
+=======
+ui.auto.update.check.time=1688399842307
+>>>>>>> 69f28e63ff73b840c3d6f5d3973e0b522aec7b61
 ui.render.boolean.style.checked.align=CENTER
 ui.render.boolean.style.checked.color=default
 ui.render.boolean.style.checked.font=NORMAL

@@ -78,7 +78,11 @@
 		<column name="Group" visible="true" order="3" width="232"/>
 	</item>
 	<item id="Suggestion/NodeList/OracleTableColumn">
+<<<<<<< HEAD
 		<column name="컬럼명" visible="true" order="0" width="79"/>
+=======
+		<column name="컬럼명" visible="true" order="0" width="117"/>
+>>>>>>> 69f28e63ff73b840c3d6f5d3973e0b522aec7b61
 		<column name="#" visible="true" order="1" width="27"/>
 		<column name="Type" visible="true" order="2" width="94"/>
 		<column name="Type Mod" visible="false" order="3" width="110"/>
