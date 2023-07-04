@@ -46,11 +46,11 @@ org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.
 org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.jkiss.dbeaver.ui.editors.sql.run.statement].visibility=true
 org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.jkiss.dbeaver.ui.editors.sql.show.terminalView].isSet=true
 org.jkiss.dbeaver.toolBarConfiguration.toolbars.[sqlEditor.side.top].items.[org.jkiss.dbeaver.ui.editors.sql.show.terminalView].visibility=true
-project.active=day07
+project.active=day08
 sample.database.canceled=true
 swt.client.browser=EDGE
 tipOfTheDayInitializer.notFirstRun=true
-ui.auto.update.check.time=1688344800259
+ui.auto.update.check.time=1688448099750
 ui.render.boolean.style.checked.align=CENTER
 ui.render.boolean.style.checked.color=default
 ui.render.boolean.style.checked.font=NORMAL

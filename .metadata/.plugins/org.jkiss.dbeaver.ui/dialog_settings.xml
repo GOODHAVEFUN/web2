@@ -66,9 +66,9 @@
 	<section name="DBeaver.SelectDataSourceDialog">
 		<item key="DIALOG_X_ORIGIN" value="690"/>
 		<item key="DIALOG_Y_ORIGIN" value="18"/>
-		<item key="DIALOG_WIDTH" value="557"/>
-		<item key="DIALOG_HEIGHT" value="765"/>
-		<item key="DIALOG_FONT_NAME" value="1|Consolas|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas"/>
+		<item key="DIALOG_WIDTH" value="301"/>
+		<item key="DIALOG_HEIGHT" value="687"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="DBeaver.TransactionLogDialog">
 		<item key="DIALOG_X_ORIGIN" value="-199"/>
@@ -83,5 +83,11 @@
 		<item key="DIALOG_WIDTH" value="555"/>
 		<item key="DIALOG_HEIGHT" value="364"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="GotoObjectDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="oracle_thin">
+		</section>
 	</section>
 </section>
