@@ -1,7 +1,7 @@
 --GROUP BY, HAVING
 --	GROUP BY 절은 특정 컬럼에 있는 값을 그룹으로 묶어서 데이터 집계
 --	SELETE WHERE GROUP BY ORDER BY
-
+--
 --SQL 실행순서
 --	FROM > ON > JOIN > WHERE > GROUP BY > HAVING > SELECT > ORDER BY
 --
