@@ -1,7 +1,7 @@
 {
 	"folders": {},
 	"connections": {
-		"oracle_thin-188fff48295-1e59d20336071d5a": {
+		"oracle_thin-1891f5b0bdf-7ec99e5e4bf67e37": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
 			"name": "localhost",
@@ -20,9 +20,28 @@
 				},
 				"auth-model": "oracle_native"
 			}
+		},
+		"oracle_thin-18924798fd5-2f83ff36c0beede2": {
+			"provider": "oracle",
+			"driver": "oracle_thin",
+			"name": "localhost 2",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "1521",
+				"database": "XE",
+				"url": "jdbc:oracle:thin:@//localhost:1521/XE",
+				"configurationType": "MANUAL",
+				"home": "C:\\oraclexe\\app\\oracle\\product\\11.2.0\\server",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-connection-type@": "BASIC",
+					"@dbeaver-sid-service@": "SERVICE"
+				},
+				"auth-model": "oracle_native"
+			}
 		}
 	},
-	"virtual-models": {"oracle_thin-188fff48295-1e59d20336071d5a":{"HR":{":VIEW_EMPLOYEES":{"properties":{"erd.diagram.state":{"serialized":"\u003cdiagram version\u003d\"1\" name\u003d\"empty\" time\u003d\"202307051752\"\u003e\u003centities\u003e\u003cdata-source id\u003d\"oracle_thin-188fff48295-1e59d20336071d5a\"\u003e\u003centity id\u003d\"1\" name\u003d\"VIEW_EMPLOYEES\" fq-name\u003d\"HR.VIEW_EMPLOYEES\" order\u003d\"0\" color-bg\u003d\"128,64,32\" x\u003d\"300\" y\u003d\"60\"\u003e\u003cpath name\u003d\"HR\"/\u003e\u003c/entity\u003e\u003c/data-source\u003e\u003c/entities\u003e\u003crelations/\u003e\u003c/diagram\u003e"}}}}}},
 	"connection-types": {
 		"dev": {
 			"name": "Development",

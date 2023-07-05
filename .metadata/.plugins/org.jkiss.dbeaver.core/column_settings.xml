@@ -21,6 +21,9 @@
 		<column name="Origin" visible="true" order="2" width="100"/>
 		<column name="드라이버 유형" visible="true" order="3" width="122"/>
 	</item>
+	<item id="NodeList/OracleSchema">
+		<column name="Name" visible="true" order="0" width="130"/>
+	</item>
 	<item id="NodeList/OracleTable">
 		<column name="Name" visible="true" order="0" width="196"/>
 		<column name="Created" visible="true" order="1" width="126"/>
@@ -78,12 +81,12 @@
 		<column name="Group" visible="true" order="3" width="232"/>
 	</item>
 	<item id="Suggestion/NodeList/OracleTableColumn">
-		<column name="컬럼명" visible="true" order="0" width="99"/>
+		<column name="컬럼명" visible="true" order="0" width="79"/>
 		<column name="#" visible="true" order="1" width="27"/>
 		<column name="Type" visible="true" order="2" width="94"/>
 		<column name="Type Mod" visible="false" order="3" width="100"/>
 		<column name="Not Null" visible="true" order="3" width="59"/>
 		<column name="디폴트" visible="true" order="4" width="50"/>
-		<column name="Comment" visible="true" order="5" width="234"/>
+		<column name="Comment" visible="true" order="5" width="68"/>
 	</item>
 </items>
