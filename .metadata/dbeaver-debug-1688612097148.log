@@ -1,23 +1,23 @@
-2023-07-06 11:54:57.150 - DBeaver 23.1.1.202306251800 is starting
-2023-07-06 11:54:57.151 - OS: Windows 10 10.0 (amd64)
-2023-07-06 11:54:57.151 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
-2023-07-06 11:54:57.151 - Install path: 'D:\web_1400_lwj\dbms\oracle\resource\dbeaver-ce-23.1.1-win32.win32.x86_64\dbeaver'
-2023-07-06 11:54:57.151 - Instance path: 'file:/D:/web_1400_lwj/dbms/oracle/workspace/'
-2023-07-06 11:54:57.151 - Memory available 64Mb/1024Mb
-2023-07-06 11:54:57.160 - Create display
-2023-07-06 11:54:57.251 - Initializing DBeaver 23.1.1
-2023-07-06 11:54:57.252 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.1.1.202306251800
-2023-07-06 11:54:57.252 - Initialize desktop platform...
-2023-07-06 11:54:57.348 - BounceCastle bundle found. Use JCE provider BC
+2023-07-06 10:38:55.940 - DBeaver 23.1.1.202306251800 is starting
+2023-07-06 10:38:55.940 - OS: Windows 10 10.0 (amd64)
+2023-07-06 10:38:55.940 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2023-07-06 10:38:55.940 - Install path: 'D:\web_1400_lwj\dbms\oracle\resource\dbeaver-ce-23.1.1-win32.win32.x86_64\dbeaver'
+2023-07-06 10:38:55.940 - Instance path: 'file:/D:/web_1400_lwj/dbms/oracle/workspace/'
+2023-07-06 10:38:55.940 - Memory available 64Mb/1024Mb
+2023-07-06 10:38:55.955 - Create display
+2023-07-06 10:38:56.065 - Initializing DBeaver 23.1.1
+2023-07-06 10:38:56.065 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.1.1.202306251800
+2023-07-06 10:38:56.065 - Initialize desktop platform...
+2023-07-06 10:38:56.159 - BounceCastle bundle found. Use JCE provider BC
 > Start Core File Systems [org.eclipse.core.filesystem 1.10.0.v20230425-0513]
 > Start Core Resource Management [org.eclipse.core.resources 3.19.0.v20230510-1240]
 > Start Team Support Core [org.eclipse.team.core 3.10.0.v20230317-0901]
 > Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.108.202306251800]
-2023-07-06 11:54:57.593 - Initialize base platform...
-2023-07-06 11:54:57.619 - Platform initialized (367ms)
+2023-07-06 10:38:56.460 - Initialize base platform...
+2023-07-06 10:38:56.486 - Platform initialized (421ms)
 > Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.108.202306251800]
-2023-07-06 11:54:57.625 - Starting RMI server at 31746
-2023-07-06 11:54:57.672 - Run workbench
+2023-07-06 10:38:56.501 - Starting RMI server at 55549
+2023-07-06 10:38:56.553 - Run workbench
 > Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.123.202306251800]
 > Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.0.v20230501-1823]
 > Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.0.v20230429-1914]
@@ -31,16 +31,16 @@
 > Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.0.v20230525-0648]
 > Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.0.v20230429-1914]
 > Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.0.v20230317-0802]
-2023-07-06 11:55:02.207 - Configure workbench window
+2023-07-06 10:39:01.923 - Configure workbench window
 > Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.98.202306251800]
-2023-07-06 11:55:02.311 - Total database drivers: 104 (104)
+2023-07-06 10:39:02.036 - Total database drivers: 104 (104)
 > Start Help System Core [org.eclipse.help 3.10.0.v20230317-0802]
-2023-07-06 11:55:02.359 - Create actions
-2023-07-06 11:55:02.363 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
-2023-07-06 11:55:02.363 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
-2023-07-06 11:55:02.363 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
-2023-07-06 11:55:02.679 - Initialize workbench window
-2023-07-06 11:55:02.683 - Finish initialization
+2023-07-06 10:39:02.153 - Create actions
+2023-07-06 10:39:02.158 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-07-06 10:39:02.158 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-07-06 10:39:02.158 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2023-07-06 10:39:02.475 - Initialize workbench window
+2023-07-06 10:39:02.480 - Finish initialization
 > Start Default Text Editor [org.eclipse.ui.editors 3.16.0.v20230329-1609]
 > Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.0.v20230316-1200]
 > Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.108.202306251800]
@@ -60,23 +60,32 @@ Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui
 > Start GEF Classic GEF (MVC) [org.eclipse.gef 3.14.0.202306071707]
 > Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.68.202306251800]
 > Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.68.202306251800]
-2023-07-06 11:55:04.665 - Connect with 'localhost' (oracle_thin-188fff48295-1e59d20336071d5a)
+2023-07-06 10:39:05.665 - Connect with 'localhost' (oracle_thin-188fff48295-1e59d20336071d5a)
 > Start Bundle-Name [org.jkiss.dbeaver.model.jdbc 1.0.1.202306251800]
 > Start DBeaver Oracle Support [org.jkiss.dbeaver.ext.oracle 2.1.193.202306251800]
-2023-07-06 11:55:04.690 - Execution context opened (localhost; Main; 0)
-2023-07-06 11:55:04.948 - Execution context opened (localhost; Metadata; 1)
-2023-07-06 11:55:05.014 - Connected (oracle_thin-188fff48295-1e59d20336071d5a, Oracle JDBC driver [11.2.0.2.0])
-2023-07-06 11:55:05.016 - Execution context opened (localhost; SQLEditor <day09.sql>; 2)
+2023-07-06 10:39:05.707 - Execution context opened (localhost; Main; 0)
+2023-07-06 10:39:05.994 - Execution context opened (localhost; Metadata; 1)
+2023-07-06 10:39:06.054 - Connected (oracle_thin-188fff48295-1e59d20336071d5a, Oracle JDBC driver [11.2.0.2.0])
+2023-07-06 10:39:06.057 - Execution context opened (localhost; SQLEditor <day09.sql>; 2)
+2023-07-06 10:39:08.168 - Open [https://dbeaver.io/product/version.xml]
 > Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.86.202306251800]
 > Start DBeaver Oracle UI [org.jkiss.dbeaver.ext.oracle.ui 1.0.95.202306251800]
 > Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.86.202306251800]
 > Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.3.202306251800]
-2023-07-06 12:49:00.890 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:49:00.890 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:49:00.890 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 12:49:01.048 - SQL Error [942] [42000]: ORA-00942: table or view does not exist
+2023-07-06 10:42:38.309 - Connect with 'localhost' (oracle_thin-1892479f4d5-54e705d38891f721)
+2023-07-06 10:42:38.310 - Execution context opened (localhost; Main; 3)
+2023-07-06 10:42:38.322 - Execution context opened (localhost; Metadata; 4)
+2023-07-06 10:42:38.337 - Connected (oracle_thin-1892479f4d5-54e705d38891f721, Oracle JDBC driver [11.2.0.2.0])
+2023-07-06 10:42:38.343 - Execution context opened (localhost; SQLEditor <Script.sql>; 5)
+2023-07-06 10:42:49.012 - Connect with 'localhost' (oracle_thin-1891f5b0bdf-7ec99e5e4bf67e37)
+2023-07-06 10:42:49.013 - Execution context opened (localhost; Main; 6)
+2023-07-06 10:42:49.023 - Execution context opened (localhost; Metadata; 7)
+2023-07-06 10:42:49.037 - Connected (oracle_thin-1891f5b0bdf-7ec99e5e4bf67e37, Oracle JDBC driver [11.2.0.2.0])
+2023-07-06 10:42:49.042 - Execution context opened (localhost; SQLEditor <Script.sql>; 8)
+2023-07-06 10:42:50.533 - Execution context opened (localhost; SQLEditor <Script-1.sql>; 9)
+2023-07-06 10:48:53.064 - SQL Error [936] [42000]: ORA-00936: missing expression
 
-org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: table or view does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [936] [42000]: ORA-00936: missing expression
 
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
 	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
@@ -91,7 +100,7 @@ org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: 
 	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
 	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00936: missing expression
 
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
@@ -109,9 +118,12 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not e
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 12:51:16.073 - SQL Error [950] [42000]: ORA-00950: invalid DROP option
+2023-07-06 10:48:53.131 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:48:53.131 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:48:53.131 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 10:49:40.399 - SQL Error [900] [42000]: ORA-00900: invalid SQL statement
 
-org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [950] [42000]: ORA-00950: invalid DROP option
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [900] [42000]: ORA-00900: invalid SQL statement
 
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
 	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
@@ -126,7 +138,7 @@ org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [950] [42000]: ORA-00950: 
 	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
 	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.sql.SQLSyntaxErrorException: ORA-00950: invalid DROP option
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00900: invalid SQL statement
 
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
@@ -143,12 +155,12 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00950: invalid DROP option
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 12:51:16.125 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:51:16.125 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:51:16.125 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 12:53:34.836 - SQL Error [904] [42000]: ORA-00904: "M"."LAST_NAME": invalid identifier
+2023-07-06 10:49:40.461 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:49:40.461 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:49:40.461 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 10:49:43.095 - SQL Error [900] [42000]: ORA-00900: invalid SQL statement
 
-org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "M"."LAST_NAME": invalid identifier
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [900] [42000]: ORA-00900: invalid SQL statement
 
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
 	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
@@ -163,7 +175,81 @@ org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: 
 	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
 	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "M"."LAST_NAME": invalid identifier
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00900: invalid SQL statement
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:999)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1315)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2023-07-06 10:49:43.154 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:49:43.154 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:49:43.154 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 10:49:45.350 - SQL Error [900] [42000]: ORA-00900: invalid SQL statement
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [900] [42000]: ORA-00900: invalid SQL statement
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00900: invalid SQL statement
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:999)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1315)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2023-07-06 10:49:45.408 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:49:45.408 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:49:45.408 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 10:53:14.964 - SQL Error [907] [42000]: ORA-00907: missing right parenthesis
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [907] [42000]: ORA-00907: missing right parenthesis
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00907: missing right parenthesis
 
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
@@ -181,46 +267,10 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "M"."LAST_NAME": invalid
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 12:53:34.893 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:53:34.893 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:53:34.893 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 12:53:34.893 - Error positioning on query error
-org.eclipse.core.runtime.AssertionFailedException: assertion failed: 
-	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:113)
-	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:99)
-	at org.eclipse.jface.text.Position.<init>(Position.java:66)
-	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorBase.visualizeQueryErrors(SQLEditorBase.java:917)
-	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$SQLEditorQueryListener.processQueryResult(SQLEditor.java:4325)
-	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$SQLEditorQueryListener.lambda$4(SQLEditor.java:4298)
-	at org.jkiss.dbeaver.ui.UIUtils$8.runInUIThread(UIUtils.java:1670)
-	at org.jkiss.dbeaver.ui.AbstractUIJob.runInUIThread(AbstractUIJob.java:41)
-	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:148)
-	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
-	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
-	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
-	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:279)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
-2023-07-06 12:53:52.953 - SQL Error [903] [42000]: ORA-00903: invalid table name
+2023-07-06 10:53:15.020 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:53:15.020 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:53:15.020 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 10:55:50.660 - SQL Error [903] [42000]: ORA-00903: invalid table name
 
 org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [903] [42000]: ORA-00903: invalid table name
 
@@ -255,51 +305,12 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00903: invalid table name
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 12:53:53.010 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:53:53.010 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:53:53.010 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 12:53:55.462 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:53:55.462 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:53:55.462 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 12:53:55.463 - Error positioning on query error
-org.eclipse.core.runtime.AssertionFailedException: assertion failed: 
-	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:113)
-	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:99)
-	at org.eclipse.jface.text.Position.<init>(Position.java:66)
-	at org.jkiss.dbeaver.ui.editors.sql.SQLEditorBase.visualizeQueryErrors(SQLEditorBase.java:917)
-	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$SQLEditorQueryListener.processQueryResult(SQLEditor.java:4325)
-	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$SQLEditorQueryListener.lambda$4(SQLEditor.java:4298)
-	at org.jkiss.dbeaver.ui.UIUtils$8.runInUIThread(UIUtils.java:1670)
-	at org.jkiss.dbeaver.ui.AbstractUIJob.runInUIThread(AbstractUIJob.java:41)
-	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:148)
-	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
-	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
-	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
-	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:279)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
-2023-07-06 12:53:55.502 - SQL Error [904] [42000]: ORA-00904: "M"."LAST_NAME": invalid identifier
+2023-07-06 10:55:50.721 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:55:50.721 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 10:55:50.721 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 11:03:34.618 - SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
 
-org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: "M"."LAST_NAME": invalid identifier
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
 
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
 	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
@@ -314,7 +325,7 @@ org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [904] [42000]: ORA-00904: 
 	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
 	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "M"."LAST_NAME": invalid identifier
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
 
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
@@ -332,15 +343,12 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "M"."LAST_NAME": invalid
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 12:55:17.139 - Can't get column 'PLUGGED_IN': 부적합한 열 이름
-> Start ICU4J Base [com.ibm.icu.base 58.2.0.v20170418-1837]
-2023-07-06 12:55:22.928 - Can't get column 'COLUMN_NAMES_NUMS': 부적합한 열 이름
-2023-07-06 12:56:27.088 - Table 'E' not found in metadata catalog
-2023-07-06 12:56:27.088 - Table 'E' not found in metadata catalog
-2023-07-06 12:56:27.088 - Table 'E' not found in metadata catalog
-2023-07-06 12:58:53.194 - SQL Error [942] [42000]: ORA-00942: table or view does not exist
+2023-07-06 11:03:34.676 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:34.676 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:34.676 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 11:03:37.370 - SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
 
-org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: table or view does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
 
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
 	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
@@ -355,7 +363,7 @@ org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: 
 	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
 	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
 
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
@@ -373,14 +381,12 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not e
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 12:58:53.249 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:58:53.249 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 12:58:53.249 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 13:01:59.867 - Table 'T' not found in metadata catalog
-2023-07-06 13:02:15.977 - Table 'T' not found in metadata catalog
-2023-07-06 13:03:48.813 - SQL Error [942] [42000]: ORA-00942: table or view does not exist
+2023-07-06 11:03:37.431 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:37.431 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:37.431 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 11:03:47.742 - SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
 
-org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: table or view does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
 
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
 	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
@@ -395,7 +401,7 @@ org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [942] [42000]: ORA-00942: 
 	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
 	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
 
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
@@ -413,11 +419,92 @@ Caused by: java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not e
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
 	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
 	... 12 more
-2023-07-06 13:03:48.866 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 13:03:48.866 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
-2023-07-06 13:03:48.866 - Can't obtain procedure metadata nor jdbc metadata
-2023-07-06 13:10:44.171 - Execution context closed (localhost, 2)
-2023-07-06 13:10:45.339 - DBeaver is stopping
-2023-07-06 13:10:45.339 - Stop RMI server
-2023-07-06 13:10:45.340 - RMI controller has been stopped
-2023-07-06 13:10:45.340 - DBeaver shutdown completed
+2023-07-06 11:03:47.800 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:47.801 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:47.801 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 11:03:56.320 - SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [979] [42000]: ORA-00979: not a GROUP BY expression
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00979: not a GROUP BY expression
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2023-07-06 11:03:56.377 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:56.377 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:03:56.378 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 11:04:16.297 - Table 'T' not found in metadata catalog
+2023-07-06 11:20:41.748 - SQL Error [936] [42000]: ORA-00936: missing expression
+
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [936] [42000]: ORA-00936: missing expression
+
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:582)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$1(SQLQueryJob.java:491)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:498)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:934)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:3919)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:123)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:121)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5101)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00936: missing expression
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:193)
+	at oracle.jdbc.driver.T4CStatement.executeForDescribe(T4CStatement.java:848)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OracleStatement.executeInternal(OracleStatement.java:1890)
+	at oracle.jdbc.driver.OracleStatement.execute(OracleStatement.java:1855)
+	at oracle.jdbc.driver.OracleStatementWrapper.execute(OracleStatementWrapper.java:304)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2023-07-06 11:20:41.807 - Error binding callable statement parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:20:41.807 - Error obtaining output parameters from metadata: 지원되지 않는 기능입니다
+2023-07-06 11:20:41.807 - Can't obtain procedure metadata nor jdbc metadata
+2023-07-06 11:21:07.158 - Table 'T' not found in metadata catalog
+2023-07-06 11:26:13.153 - Execution context closed (localhost, 5)
+2023-07-06 11:26:13.177 - Execution context closed (localhost, 8)
+2023-07-06 11:26:13.199 - Execution context closed (localhost, 9)
+2023-07-06 11:29:46.507 - Execution context closed (localhost, 2)
+2023-07-06 11:29:47.772 - DBeaver is stopping
+2023-07-06 11:29:47.772 - Stop RMI server
+2023-07-06 11:29:47.772 - RMI controller has been stopped
+2023-07-06 11:29:47.772 - DBeaver shutdown completed
