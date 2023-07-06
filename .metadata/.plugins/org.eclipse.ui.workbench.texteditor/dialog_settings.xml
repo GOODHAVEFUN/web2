@@ -6,7 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="과제"/>
 			<item value="ECT AVG(HEIGHT) "/>
 		</list>
 		<list key="replacehistory">
