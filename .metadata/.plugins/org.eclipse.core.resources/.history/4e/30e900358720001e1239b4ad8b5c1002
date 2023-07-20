@@ -46,9 +46,7 @@ INSERT INTO TBL_USER1 VALUES(SEQ_USER.NEXTVAL,'aaa','1234','홍길동',22,'M','2
 
 INSERT INTO TBL_USER1 (user1_number,user1_id,user1_password,user1_name,user1_age,user1_birth)
 VALUES(SEQ_USER.NEXTVAL,'bbb','1234','성춘향',24,'2001-01-02');
-
 INSERT INTO TBL_USER1 (user1_number,user1_id,user1_password,user1_name,user1_age,user1_birth)
 VALUES(SEQ_USER.NEXTVAL, 'ccc', '1234', '김철수', 35, TO_DATE('1988-11-02', 'YYYY-MM-DD'));
 
-SELECT * FROM TBL_USER1 tu;
 
